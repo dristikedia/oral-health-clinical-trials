@@ -1,0 +1,15 @@
+{"term": "periodontitis", "query": "EXPANSION[Term]\"periodontitis\"", "downloaded_on": "2026-10-17", "study_count": 2,
+ "studies": [
+  {"protocolSection": {"identificationModule": {"nctId": "NCT00000002", "briefTitle": "Gum health survey"},
+     "statusModule": {"overallStatus": "COMPLETED", "startDateStruct": {"date": "2021-06-01"}},
+     "sponsorCollaboratorsModule": {"leadSponsor": {"name": "Dental University", "class": "OTHER"}},
+     "conditionsModule": {"conditions": ["Gingivitis", "Periodontitis"]},
+     "designModule": {"studyType": "OBSERVATIONAL", "enrollmentInfo": {"count": 300}}},
+   "hasResults": false},
+  {"protocolSection": {"identificationModule": {"nctId": "NCT00000004", "briefTitle": "Antibiotic plus scaling"},
+     "statusModule": {"overallStatus": "COMPLETED", "startDateStruct": {"date": "2026-02-01"}},
+     "sponsorCollaboratorsModule": {"leadSponsor": {"name": "Dental University", "class": "OTHER"}},
+     "conditionsModule": {"conditions": ["Periodontitis"]},
+     "designModule": {"studyType": "INTERVENTIONAL", "phases": ["PHASE2", "PHASE3"], "enrollmentInfo": {"count": 60}}},
+   "hasResults": false}
+ ]}

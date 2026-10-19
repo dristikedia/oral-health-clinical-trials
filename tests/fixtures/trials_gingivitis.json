@@ -1,0 +1,20 @@
+{"term": "gingivitis", "query": "EXPANSION[Term]\"gingivitis\"", "downloaded_on": "2026-10-17", "study_count": 3,
+ "studies": [
+  {"protocolSection": {"identificationModule": {"nctId": "NCT00000001", "briefTitle": "Mouthwash for gingivitis"},
+     "statusModule": {"overallStatus": "COMPLETED", "startDateStruct": {"date": "2019-03"}, "completionDateStruct": {"date": "2020-01-15"}},
+     "sponsorCollaboratorsModule": {"leadSponsor": {"name": "Toothpaste Co", "class": "INDUSTRY"}},
+     "conditionsModule": {"conditions": ["Gingivitis"]},
+     "designModule": {"studyType": "INTERVENTIONAL", "phases": ["PHASE3"], "enrollmentInfo": {"count": 120}}},
+   "hasResults": true},
+  {"protocolSection": {"identificationModule": {"nctId": "NCT00000002", "briefTitle": "Gum health survey"},
+     "statusModule": {"overallStatus": "COMPLETED", "startDateStruct": {"date": "2021-06-01"}},
+     "sponsorCollaboratorsModule": {"leadSponsor": {"name": "Dental University", "class": "OTHER"}},
+     "conditionsModule": {"conditions": ["Gingivitis", "Periodontitis"]},
+     "designModule": {"studyType": "OBSERVATIONAL", "enrollmentInfo": {"count": 300}}},
+   "hasResults": false},
+  {"protocolSection": {"identificationModule": {"nctId": "NCT00000003", "briefTitle": "Laser scaling"},
+     "statusModule": {"overallStatus": "RECRUITING"},
+     "sponsorCollaboratorsModule": {"leadSponsor": {"name": "City Hospital", "class": "OTHER"}},
+     "designModule": {"studyType": "INTERVENTIONAL", "phases": ["NA"]}},
+   "hasResults": false}
+ ]}
